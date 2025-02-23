@@ -40,7 +40,7 @@ Delegate actions like selectItem, insertCoin, dispenseItem, and
 setOutOfOrder to the current state object through its corresponding methods.
 
 # UML DIAGRAM 
-![Lab Assignment_ State Pattern ](https://github.com/user-attachments/assets/9fb6bf42-0636-4920-9ed2-d695ce2bc950)
+![Lab Assignment_ State Pattern ](https://github.com/user-attachments/assets/67967296-0fd5-4b54-82dc-84f3abaec44b)
 
 
 
